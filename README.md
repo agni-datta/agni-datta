@@ -72,15 +72,7 @@ He generally uses the key below to verify my documents and necessary work, inclu
 
 ## GitHub Statistics
 
-![GitHub Summary](https://github-readme-stats.vercel.app/api?username=datta-agni&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Contribution Summary](https://github-readme-streak-stats.herokuapp.com/?user=datta-agni&theme=chartreuse-dark&hide_border=false)
-
-![Language Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=datta-agni&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## Developer Quotes
-
-![Developer Quotes](https://quotes-github-readme.vercel.app/api?type=vetical&theme=chartreuse-dark)
 
 ## **Agni Datta**
 
