@@ -1,47 +1,12 @@
 # :mortar_board: About Me
 
-I am an undergraduate in mathematics and theoretical computer science with a minor in cybersecurity who intends to be a researcher and pursue a PhD. I predominantly prefer C, along with object-oriented programming languages such as:
+Agni Datta is a computer science major with a minor in cybersecurity at VIT Bhopal University in India. He is an ACM and SIAM student member. He has been the co-founder and first president of VIT Bhopal University's SIAM student chapter. He is also a doctoral candidate with interests in cryptography, computational number theory, and compiler and algorithm vulnerability evaluations. His work focuses on important mathematical and theoretical problems such as completely homomorphic encryption, lattice-based cryptography, privacy-preserving algorithms, and social networking security. He became interested in computational complexity and computability theory early in his practice.
 
-* Java,
-* Python,
-* Ruby.
+Along with these interests, he also adores photography, old literature, classical music, and recreational athletics. He is also a passionate Linux user with firm beliefs in digital anonymity and transparency. He prefers C in addition to object-oriented programming languages such as Java, Python, and Ruby. Furthermore, he is nonetheless conversant with Assembly (ASM, FASM) and a bit of the functional programming paradigm in Haskell. He is an open-source connoisseur and a staunch advocate of digital privacy and anonymity.
 
-However, I am also acquainted with Assembly (ASM, FASM) and just a little functional programming in Haskell. My academic and research interests are expansive, and they encompass the following:
+Likewise, he has been relying on LaTeX for rigorous note-taking and documentation practically every day, Docker for obtaining certain tool chains and compilers to operate effectively, and git for contributions and version control. Regarding programming and algorithm implementations, he uses VS Code or Jupyter Lab, and his operating system is Arch Linux, which provides flexibility and customizability.
 
-* Analysis of Algorithms,
-* Computational Complexity,
-* Computational Number Theory,
-* Cryptography and Cryptanalysis,
-* Design and Security Analysis of Compilers,
-* Functional Programming and Monads,
-* Mathematical Theory of Privacy,
-* Privacy Using Machine Learning and Deep Learning,
-* Quantum Resilient Cryptography.
-
-I am also a fervent Linux devotee with strong opinions about digital anonymity and confidentiality. And on top of all of that, I am an open source fanatic and a huge proponent of digital privacy and anonymity. Nearly every single day, I have been using LaTeX  for systematic note-taking and documentation, Docker for getting specific tool chains and compilers to work properly, git for source and revision control.
-
-VS Code or Jupyter Lab for programming and algorithm implementation, and Arch Linux as my operating system because it offers flexibility and customizability, and the package manager `pacman` is just fantastic.
-
-I usually sign my documents and important work, including my GitHub commits, with the key given below. Feel free to use this for signing and sending me documents.
-
-I'm presently concentrating on the following initiatives:
-
-* Lightweight Cryptography for CPS: State of the Art,
-* Cryptography Essentials for Cybersecurity: Fundamentals And Applications,
-* Literature Review: Password Generation Methods for Secure Authentications.
-
-I do have a bibliography that may be of relevance to students and researchers; it includes books and scientific journals on mathematics, theoretical computer science, and cryptography. It's obtainable right [here.](https://gist.github.com/datta-agni/1d5ae6df198320c8f942f78aed3479aa)
-
-Typically, my interests involve deep lying theoretical and mathematical issues such as Elliptical Curve Cryptography, Lattice-based Cryptography, privacy-preserving machine learning, and NP Completeness of algorithms. Although occasionally I work with applied technologies, especially with applied cryptography, such as cryptographic implementation in CPS, IoT, so on and so forth.
-
-## My favourite program
-
-```haskell
-fibonacci :: Integer -> Integer
-fibonacci 0 = 1
-fibonacci 1 = 1
-fibonacci x = fibonacci (x-1) + fibonacci (x-2)
-```
+He generally uses the key below to verify my documents and necessary work, including his GitHub contributions. Kindly use this to certify and transmit documents to him. He has a bibliography that researchers and students may consider appropriate; it contains publications and academic publications on mathematics, theoretical computer science, and cryptography. Currently, it is available [here.](https://gist.github.com/datta-agni/1d5ae6df198320c8f942f78aed3479aa)
 
 ## I support
 
@@ -54,7 +19,7 @@ fibonacci x = fibonacci (x-1) + fibonacci (x-2)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dattadunga)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/agnidattaorg)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/DattaDunga)
-[![Research Gate](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)](<https://www.researchgate.net/profile/Agni-Datta-2>)
+[![Research Gate](https://camo.githubusercontent.com/69dca1771dfdd234091ab67f8240d000559c1aa9b1f9cd9f9a6e2604c67afc2d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265736561726368476174652d3030434342423f7374796c653d666f722d7468652d6261646765266c6f676f3d526573656172636847617465266c6f676f436f6c6f723d7768697465)](https://www.researchgate.net/profile/Agni-Datta-2)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AgniDatta)
 
 ## Familiar With
