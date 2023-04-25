@@ -91,4 +91,4 @@ He generally uses the key below to verify my documents and necessary work, inclu
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/agnidattaorg)
 
-**PGP Key** can be found [here.](https://tinyurl.com/agnidatta-pgpkey)
+My **PGP Key** can be found [here.](https://tinyurl.com/agnidatta-pgpkey)
