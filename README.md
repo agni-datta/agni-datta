@@ -1,14 +1,6 @@
----
-title: About Me
-aliases: [About Me]
-linter-yaml-title-alias: About Me
-date created: Friday, November 24th 2023, 00:21:26
-date modified: Friday, November 24th 2023, 00:45:28
----
-
 # About Me
 
-Agni Datta is a cryptologist working with SECURE - Centre of Excellence in Cyber Security and cybersecurity researcher who specializes in theoretical computer science at VIT Bhopal University in India. He is a member of several prestigious professional associations, including ACM, IEEE, AMS, and SIAM. His research interests include various cryptographic primitives like zero-knowledge proofs, multiparty computation, and lattice cryptography. He is particularly focused on security primitives for computing, as well as computational complexity and probabilistic proofs.
+Agni Datta is a cryptologist working with SECURE - Centre of Excellence in Cyber Security and cybersecurity researcher who specializes in theoretical computer science at VIT Bhopal University in India. He is a member of several prestigious professional associations, including ACM, IEEE, AMS, and SIAM. His research interests include various cryptographic primitives like zero-knowledge proofs, multiparty computation, and lattice cryptography. He is particularly focused on security primitives for computing, computational complexity and probabilistic proofs.
 
 ## Professional Affiliation
 
@@ -18,24 +10,25 @@ Agni Datta is a cryptologist working with SECURE - Centre of Excellence in Cyber
 
 ## Research Interests
 
-My research interests usually includes the following domains:
+My research interests usually include the following domains:
 
 - Zero-Knowledge Proofs
 - Secure Multiparty Computation
 - Zero-Trust Computing  
 
-Please note that the above list is not comprehensive in nature. I am willing to research any subject matter associated with the applicability of computational complexity and cryptographic primitives.
+Just so you know, the above list is not comprehensive in nature. I am willing to research any subject matter associated with the applicability of computational complexity and cryptographic primitives.
 
 ## Contact Information
 
-- **Official Email (for academic work):** [agnidatta.org@gmail.com](mailto:agnidatta.org@gmail.com)
+- **Offi (for academic work):** [agnidatta.org@gmail.com](mailto:agnidatta.org@gmail.com)
 - **Personal Email (for everything else):** [dattadunga@gmail.com](mailto:dattadunga@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattagni)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattagni)
+
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dattadunga)
 
 ## GitHub Statistics
 
 ![Contribution Summary](https://github-readme-streak-stats.herokuapp.com/?user=agni-datta&theme=chartreuse-dark&hide_border=false)
 
-My PGP Key can be found [here.](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9). This key pair is what I’ve typically used to sign commits and critical documents; you could use it to validate their authenticity in addition. You have permission to establish a secure channel of communication with me using the identical public key.
+My PGP Key can be found [here.](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9). This key pair is what I’ve typically used to sign commits and critical documents; you could use it to validate their authenticity in addition. You have permission to establish a secure communication channel with me using the identical public key.
