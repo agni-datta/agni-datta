@@ -1,6 +1,7 @@
 # About Me
 
-Agni Datta is a cryptologist working with SECURE - Centre of Excellence in Cyber Security and cybersecurity researcher who specializes in theoretical computer science at VIT Bhopal University in India. He is a member of several prestigious professional associations, including ACM, IEEE, AMS, and SIAM. His research interests include various cryptographic primitives like zero-knowledge proofs, multiparty computation, and lattice cryptography. He is particularly focused on security primitives for computing, computational complexity and probabilistic proofs.
+
+I am Agni Datta, a cryptologist working with SECURE - Centre of Excellence in Cyber Security and a cybersecurity researcher specializing in theoretical computer science at VIT Bhopal University in India. I am a member of several prestigious professional associations, including ACM, IEEE, AMS, and SIAM. My research interests encompass various cryptographic primitives, such as zero-knowledge proofs, multiparty computation, zero-trust computing, and lattice cryptography. I am particularly focused on security primitives for computing, computational complexity, and probabilistic proofs.
 
 ## Professional Affiliation
 
