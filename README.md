@@ -16,11 +16,11 @@ My research interests usually include the following domains:
 - Secure Multiparty Computation
 - Zero-Trust Computing  
 
-Just so you know, the above list is not comprehensive in nature. I am willing to research any subject matter associated with the applicability of computational complexity and cryptographic primitives.
+Just so you know, the above list is not comprehensive. I am willing to research any subject matter associated with the applicability of computational complexity and cryptographic primitives.
 
 ## Contact Information
 
-- **Offi (for academic work):** [agnidatta.org@gmail.com](mailto:agnidatta.org@gmail.com)
+- **Official Email (for academic work):** [agnidatta.org@gmail.com](mailto:agnidatta.org@gmail.com)
 - **Personal Email (for everything else):** [dattadunga@gmail.com](mailto:dattadunga@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattagni)
