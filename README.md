@@ -1,6 +1,6 @@
 # About Me
 
-My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. Specifically, I have extensive experience with data extraction, advanced digital forensics, and applied cryptography.
+My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. I have a formal background in cybersecurity, particularly in data extraction, advanced digital forensics, and applied cryptography.
 
 My research interests mainly centre on the fundamental and theoretical aspects of cryptography, with a focus on zero-knowledge proofs, multiparty computation, provable security, and identity-based cryptography. Security primitives for provable security, computational complexity, and probabilistic proofs for use in cryptography-proof systems comprise the majority of my research interests.
 
