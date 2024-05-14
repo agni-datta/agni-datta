@@ -2,7 +2,7 @@
 
 My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. I have a formal background in cybersecurity, particularly in data extraction, advanced digital forensics, and applied cryptography.
 
-My research interests mainly centre on the theoretical computer science and theoretical aspects of cryptography, with a focus on provable security and proof systems. In addition, I am also deeply interested in primitives for provable security, computational complexity, and automata theory.
+Theoretical computer science and cryptography are the primary foci of my research, with proof systems and provable security being of particular interest. In addition, I am also deeply interested in primitives for computational complexity and automata theory.
 
 [![total stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/agni-datta)](https://github.com/agni-datta?tab=repositories&sort=stargazers) [![followers](https://custom-icon-badges.herokuapp.com/github/followers/agni-datta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/agni-datta) [![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-330F63?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/agni-datta?tab=repositories)
 
@@ -18,16 +18,15 @@ My research interests mainly centre on the theoretical computer science and theo
 
 ## Research Interests
 
-Loosely speaking, my research interests focus on the following:
+Broadly speaking, the following comprise the core of my research interests:
 
 ```
-Zero-knowledge proofs,
-Secure multiparty computation,
-Zero-trust computing, and
+Zero-knowledge proofs;
+Secure multiparty computation;
 Provable security.
 ```
 
-Please note that this list is not exhaustive. I am open to exploring any topic related to the practical use of computational complexity and cryptographic primitives.
+Please keep in mind that this list is by no means exhaustive. I am open to exploring any topic related to the practical use of computational complexity and cryptographic primitives.
 
 ## GitHub Statistics
 
