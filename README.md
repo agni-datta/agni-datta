@@ -10,12 +10,6 @@ Theoretical computer science and cryptography are the primary foci of my researc
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agnidatta.org@gmail.com) [![Me](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sites.google.com/view/agni-datta/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agni-datta) [![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-2738-1910) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dattadunga) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AgniDatta)
 
-## Professional Affiliation
-
-- **Title:** Cryptologist and Researcher
-- **Affiliation:** SECURE - Centre of Excellence for Cyber Security, VIT Bhopal University
-- **Affiliation Address:** SECURE - Centre of Excellence in Cyber Security, VIT Bhopal University, Kotri Kalan, Ashta, Near, Indore Road, Bhopal, Madhya Pradesh 466114
-
 ## Research Interests
 
 Broadly speaking, the following comprise the core of my research interests:
