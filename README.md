@@ -15,7 +15,6 @@ Broadly speaking, the following comprise the core of my research interests:
 ```
 Zero-knowledge proofs;
 Rational proofs;
-Secure multiparty computation;
 Provable security.
 ```
 
