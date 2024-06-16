@@ -1,6 +1,6 @@
 # About Me
 
-My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. I have a formal background in cybersecurity and digital resilience. I am particularly interested in proof systems and provable security, and my research is primarily focused on theoretical computer science and cryptography.
+My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. I have a formal background in cybersecurity, digital forensics, and digital resilience. I am particularly interested in proof systems and provable security, and my research is primarily focused on theoretical computer science and cryptography.
 
 [![total stars](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/agni-datta)](https://github.com/agni-datta?tab=repositories&sort=stargazers) [![followers](https://custom-icon-badges.herokuapp.com/github/followers/agni-datta?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/agni-datta) [![All Repositories](https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-330F63?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/agni-datta?tab=repositories)
 
