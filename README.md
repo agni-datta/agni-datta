@@ -1,11 +1,3 @@
----
-title: About Me
-aliases: [About Me]
-linter-yaml-title-alias: About Me
-date created: Friday, June 21st 2024, 22:00:15
-date modified: Tuesday, June 25th 2024, 21:58:58
----
-
 # About Me
 
 My name is Agni Datta. I am a final-year graduate student pursuing an integrated M.Tech in Computer Science with a minor in Cybersecurity at VIT Bhopal University, Bhopal, Madhya Pradesh, India. I have a formal background in cybersecurity, digital forensics, and digital resilience. I am particularly interested in proof systems and provable security, and my research is primarily focused on theoretical computer science and cryptography.
