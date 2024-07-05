@@ -10,7 +10,7 @@ My name is Agni Datta. I am a final-year graduate student pursuing an integrated
 
 ## Research Interests
 
-Broadly speaking, the following comprise the core of my research interests:
+Broadly speaking, along with general cryptography the following comprise the core of my research interests:
 
 ```
 Zero-knowledge proofs;
