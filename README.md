@@ -12,8 +12,6 @@ My research interests centre around theoretical computer science, with a particu
 
 ## GitHub Statistics
 
-![Contribution Summary](https://github-readme-streak-stats.herokuapp.com/?user=agni-datta&theme=github_dark&card_width=500&border_radius=2&hide_border=true&include_all_commits=true&show_icons=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agni-datta&theme=github_dark&langs_count=8&card_width=500&hide_border=true&hide_title=true&border_radius=2&layout=compact)
 
 For secure communication, you can retrieve my public key from [this location](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9). You are authorised to establish a secure communication channel using this public key. Alternatively, you can execute the following command in a terminal:
