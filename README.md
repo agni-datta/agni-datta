@@ -4,7 +4,7 @@ Hi! I’m Agni Datta, a final-year graduate student at [VIT Bhopal University](h
 
 I’ve had the privilege of working under the mentorship of [Dr. Shishir Kumar Shandilya](https://in.linkedin.com/in/sks1809) and was an inaugural member and student lead at [SECURE—Centre of Excellence in Cyber Security](https://vitbhopal.ac.in/secure/), where I helped drive various cybersecurity initiatives. Additionally, I co-led the technical team at [Oshin OS](https://oshinos.com/contributors/), formerly known as Kavach OS, where we developed open-source tools and prototyped an Arch-based operating system aimed at enhancing digital security for children.
 
-My research interests centre around theoretical computer science, with a particular focus on cryptography, provable security, and cryptographic primitives. I’m currently working on my master’s thesis in collaboration with [Dr. Matteo Campanelli](https://binarywhales.com/), where we are exploring sublinear verification complexity proofs. I’m passionate about bridging the gap between theoretical problems and real-world applications, and I’m always open to discussions or collaborations on these topics.
+My research interests center around theoretical computer science, with a particular focus on cryptography, provable security, and cryptographic primitives. I’m currently working on my master’s thesis in collaboration with [Dr. Matteo Campanelli](https://binarywhales.com/), where we are exploring sublinear verification complexity proofs. I’m passionate about bridging the gap between theoretical problems and real-world applications, and I’m always open to discussions or collaborations on these topics.
 
 ## Contact
 
