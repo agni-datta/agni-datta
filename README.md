@@ -1,6 +1,6 @@
 # About Me
 
-Hey! I'm a grad student who completed a master's in computer science with a minor in cybersecurity at VIT Bhopal University in India, during which I had the opportunity to work with Matteo Campanelli. This summer, I’m excited to be joining CISPA as an intern under the supervision of Doreen Riepel.
+Hello there! I’m a graduate student and I completed my master’s in computer science, with a minor in cybersecurity, at [VIT Bhopal University](https://vitbhopal.ac.in/) in India. I did my master’s thesis under the thoughtful mentorship of [Matteo Campanelli](https://binarywhales.com/). This summer, I’m at CISPA as a research assistant, hosted by the wonderful [Doreen Riepel](https://doreenriepel.me/). With any luck and minimal cosmic interference, I’ll be starting my PhD soon.
 
 ## Relevant Links
 
@@ -8,7 +8,7 @@ Hey! I'm a grad student who completed a master's in computer science with a mino
 
 ## GPG Public-Key
 
-For secure communication, you can retrieve my public key from [this location](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9). You're welcome to set up a secure communication channel using this public key. Alternatively, you can run the following command in your terminal:
+For secure communication, you can retrieve my public key from [this location](https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9). You’re welcome to set up a secure communication channel using this public key. Alternatively, you can run the following command in your terminal:
 
 ```bash
 wget https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9
