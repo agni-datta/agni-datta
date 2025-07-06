@@ -1,5 +1,3 @@
-# Agni Datta
-
 ## Academic Profile
 
 I am a graduate student with a Master’s degree in Computer Science, specializing in cybersecurity, from VIT Bhopal University, India. My master’s thesis was completed under the supervision of Dr. Matteo Campanelli. Currently, I serve as a research assistant at CISPA, working with Dr. Doreen Riepel. I am actively pursuing opportunities to begin my doctoral studies.
