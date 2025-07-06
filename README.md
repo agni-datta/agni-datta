@@ -6,9 +6,10 @@ I am a graduate student with a Master’s degree in Computer Science, specializi
 
 My research focuses on theoretical computer science and cryptography, with particular emphasis on:
 
-- Interactive proofs
-- Quantum cryptography
-- Property testing
+1. Foundations of cryptography
+2. Interactive proofs
+3. Quantum cryptography
+4. Property testing
 
 ## Contact Information
 
