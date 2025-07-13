@@ -26,7 +26,3 @@ To retrieve the key via command line:
 ```bash
 wget https://keys.openpgp.org/vks/v1/by-fingerprint/034FA3D4FD4067E5BCF30B6FCF8D56CABE52E5E9
 ```
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
