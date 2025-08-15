@@ -1,4 +1,4 @@
-# Academic Profile
+## Academic Profile
 
 Hello there! I’m a graduate student and I completed my master’s in computer science, with a minor in cybersecurity, at [VIT Bhopal University](https://vitbhopal.ac.in/) in India. I did my master’s thesis under the thoughtful mentorship of [Matteo Campanelli](https://binarywhales.com/). This summer, I’m at CISPA as a research assistant, hosted by the wonderful [Doreen Riepel](https://doreenriepel.me/). With any luck and minimal cosmic interference, I’ll be starting my PhD soon.
 

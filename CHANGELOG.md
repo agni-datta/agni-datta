@@ -2,43 +2,35 @@
 title: CHANGELOG
 linter-yaml-title-alias: CHANGELOG
 date created: Friday, July 11th 2025, 18:54:20
-date modified: Friday, July 25th 2025, 21:56:07
+date modified: Friday, August 15th 2025, 19:24:03
 aliases: CHANGELOG
 ---
 
-# CHANGELOG
+## CHANGELOG
 
-- docs(README): Standardize README.md structure, update metadata, and improve clarity. NEI: Unified documentation, improved maintainability, and user experience. (Agni Datta, 2025-07-11)
-- Add CHANGELOG generated from git history (Agni Datta, 2025-07-11)
-- Update README.md (Agni Datta, 2025-07-07)
-- Update README.md (Agni Datta, 2025-07-06)
-- Update README.md (Agni Datta, 2025-07-06)
-- Update.gitignore and enhance README structure (Agni Datta, 2025-07-06)
-- Create.gitignore (Agni Datta, 2025-06-18)
-- Update README.md (Agni Datta, 2025-06-14)
-- Update README.md (Agni Datta, 2025-06-04)
-- Update README.md (Agni Datta, 2025-06-04)
-- Update README.md (Agni Datta, 2025-06-04)
-- Update README.md (Agni Datta, 2025-06-04)
-- Update README.md (Agni Datta, 2025-04-03)
-- Update README.md (Agni Datta, 2025-01-06)
-- Update README.md (Agni Datta, 2024-12-05)
-- Update README.md (Agni Datta, 2024-08-04)
-- Update README.md (Agni Datta, 2024-08-01)
-- Revert “Update README.md” (Agni Datta, 2024-07-24)
-- Update README.md (Agni Datta, 2024-07-24)
-- Update README.md (Agni Datta, 2024-07-05)
-- Revert “Update README.md” (Agni Datta, 2024-06-25)
-- Update README.md (Agni Datta, 2024-06-25)
-- Update README.md (Agni Datta, 2024-06-16)
-- Update README.md (Agni Datta, 2024-06-15)
-- Update README.md, specifically the about section. (Agni Datta, 2024-06-15)
-- Update README.md (Agni Datta, 2024-06-14)
-- Update README.md (Agni Datta, 2024-05-20)
-- Update README.md (Agni Datta, 2024-05-14)
-- Update README.md (Agni Datta, 2024-05-14)
-- Update README.md (Agni Datta, 2024-05-11)
-- Update README.md (Agni Datta, 2024-05-09)
-- Update README.md (Agni Datta, 2024-05-07)
-- Update README.md (Agni Datta, 2024-05-07)
-- Initial commit (Agni Datta, 2024-05-07)
+### TL;DR - Important Changes Only
+
+#### **Major Updates**
+
+- **2025-07-11**: Added comprehensive CHANGELOG system and standardized README structure
+- **2025-06-18**: Created `.gitignore` file for better repository management
+- **2024-05-07**: Initial repository setup and academic profile creation
+
+#### **Documentation Improvements**
+
+- **2025-08-14**: Minor content and formatting updates to README
+- **2025-07-25**: Markdown formatting improvements
+- **2025-07-13**: README content updates
+- **2025-07-06**: Enhanced README structure and `.gitignore` improvements
+
+#### **Repository Maintenance**
+
+- **2025-07-11**: Added `.gitattributes` for consistent line endings
+- **2025-07-11**: Implemented changelog generation from git history
+- **2025-06-04**: Multiple README updates for content refinement
+
+#### **Content Updates**
+
+- **2024-06-15**: Enhanced about section with detailed research interests
+- **2024-05-07**: Established academic profile with research focus areas
+- **2024-05-07**: Added contact information and professional links
