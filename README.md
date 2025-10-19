@@ -1,15 +1,10 @@
 ## Academic Profile
 
-Hello there! I’m a graduate student and I completed my master’s in computer science, with a minor in cybersecurity, at [VIT Bhopal University](https://vitbhopal.ac.in/) in India. I did my master’s thesis under the thoughtful mentorship of [Matteo Campanelli](https://binarywhales.com/). This summer, I’m at CISPA as a research assistant, hosted by the wonderful [Doreen Riepel](https://doreenriepel.me/). With any luck and minimal cosmic interference, I’ll be starting my PhD soon.
+I am currently a Predoctoral Researcher at the Trust Lab, IIT Bombay, hosted by [Chethan Kamath](https://www.cse.iitb.ac.in/~ckamath) and [Sruthi Sekar](https://sruthisekar.wordpress.com/). During the summer, I worked as a research assistant at CISPA, hosted by [Doreen Riepel](https://doreenriepel.me/). I completed my master’s thesis under the guidance of [Matteo Campanelli](https://binarywhales.com/), and I received my integrated master’s degree in Computer Science from [VIT Bhopal University](https://vitbhopal.ac.in/) in India.
 
 ### Research Interests
 
-My research focuses on theoretical computer science and cryptography, with particular emphasis on:
-
-1. Foundations of cryptography
-2. Interactive proofs
-3. Quantum cryptography
-4. Property testing
+I have a broad general interest in theoretical computer science. My focus area is cryptography.
 
 ### Contact Information
 
